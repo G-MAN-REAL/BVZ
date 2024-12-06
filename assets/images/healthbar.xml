@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="healthbar.png">
+	<!--
+	Created with ShoeBox
+	http://renderhjs.net/shoebox/
+	-->
+	<SubTexture name="1_health.png"	x="0"	y="84"	width="100"	height="21" frameX="-0" frameY="-0" frameWidth="100" frameHeight="21"/>
+	<SubTexture name="2_health.png"	x="0"	y="63"	width="100"	height="21" frameX="-0" frameY="-0" frameWidth="100" frameHeight="21"/>
+	<SubTexture name="3_health.png"	x="0"	y="105"	width="100"	height="21" frameX="-0" frameY="-0" frameWidth="100" frameHeight="21"/>
+	<SubTexture name="4_health.png"	x="0"	y="42"	width="100"	height="21" frameX="-0" frameY="-0" frameWidth="100" frameHeight="21"/>
+	<SubTexture name="FULL_health.png"	x="0"	y="0"	width="100"	height="21" frameX="-0" frameY="-0" frameWidth="100" frameHeight="21"/>
+	<SubTexture name="NO_health.png"	x="0"	y="21"	width="100"	height="21" frameX="-0" frameY="-0" frameWidth="100" frameHeight="21"/>
+</TextureAtlas>
